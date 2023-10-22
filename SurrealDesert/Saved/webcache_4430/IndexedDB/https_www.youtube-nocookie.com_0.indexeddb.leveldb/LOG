@@ -1,0 +1,6 @@
+2023/10/08-20:34:34.686 203c Creating DB C:/Users/tflan/OneDrive/Documents/Unreal Projects/SurrealDesert/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/10/08-20:34:34.693 203c Reusing MANIFEST C:/Users/tflan/OneDrive/Documents/Unreal Projects/SurrealDesert/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/08-20:48:03.411 4488 Level-0 table #5: started
+2023/10/08-20:48:03.421 4488 Level-0 table #5: 1167 bytes OK
+2023/10/08-20:48:03.423 4488 Delete type=0 #3
+2023/10/08-20:48:03.423 4488 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
